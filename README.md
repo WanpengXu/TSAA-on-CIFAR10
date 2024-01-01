@@ -18,6 +18,8 @@ conda activate pr
 
 git clone https://github.com/WanpengXu/TSAA-on-CIFAR10.git
 cd TSAA-on-CIFAR10
+chmod +x download_weights.sh
+download_weights.sh
 pip install -r requirements.txt
 ```
 
