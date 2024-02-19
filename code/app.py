@@ -119,7 +119,7 @@ def generate_adv_images(original_image, target, eps, generator_model, classifier
 
 with gr.Blocks() as demo:
     # block是左右的Tab
-    gr.Markdown("# 模式识别课程设计：对抗样本生成系统")
+    gr.Markdown("# 人工智能与机器学习课程设计：对抗样本生成系统")
     # 这里面的element按Column排列
     with gr.Column(variant="panel"):
         # 这里面的element按Row排列
