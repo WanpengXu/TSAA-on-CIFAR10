@@ -32,4 +32,4 @@ gradio app.py
 
 ---
 
-![image-20231231200522161](https://testingcf.jsdelivr.net/gh/WanpengXu/myPicGo/img/ms20231231200522654.png)
+![image-20240219211534920](https://testingcf.jsdelivr.net/gh/WanpengXu/myPicGo/img/ms20240219211537012.png)
